@@ -1,2 +1,2 @@
 # misc-scripts
-Dumping ground for small miscellaneous with minimum documentation. Enjoy 🚢
+Dumping ground for small miscellaneous scripts with minimum documentation. Enjoy 🚢
